@@ -9,7 +9,6 @@
 
 Don't forget to take care of yourself! Recognize the early signs of burnout, take breaks, and stay hydrated.
 
-<img src="https://github.com/ericzty/ericzty/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/ericzty/ericzty/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/ericzty/ericzty/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/ericzty/ericzty/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 [![Eric's github trophies](https://github-profile-trophy.vercel.app/?username=ericzty&no-frame=true&theme=nord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
