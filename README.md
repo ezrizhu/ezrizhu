@@ -3,7 +3,6 @@
 - 🧑‍🔬 I have been doing research assistant work with [Data-Parallel Shell Scripting](https://github.com/binpash) with my [Michael Greenberg](https://greenberg.science/) from my university.
 - 🌐 I run [AS206628](https://as206628.net), a not-for-profit IT and Networking project that provides free hosting and BGP upstream to students and open-source projects.
 - 💻 Currently Developing [eve](https://github.com/BasedDevelopment/eve) and [auto](https://github.com/BasedDevelopment/auto) to replace proxmox on my network!
-- 🦀 I’m learning Rust too!
 - 🌈 Looking for internships, shoot me an email!
 - 📫 eric@ericz.me
 
