@@ -6,6 +6,6 @@
 - 🌈 Looking for internships, shoot me an email!
 - 📫 eric@ericz.me If you prefer, finnekit#0001 on discord, and finnekit on libera.chat.
 
-Don't forget to take care of yourself! Recognize the early signs of burnout, take breaks, and stay hydrated. *hugs*
+Don't forget to take care of yourself! Recognize the early signs of burnout, take breaks, and stay hydrated. 
 
 <img src="https://github.com/ericzty/ericzty/blob/master/generated/overview.svg#gh-dark-mode-only" />[![Eric's github trophies](https://github-profile-trophy.vercel.app/?username=ericzty&no-frame=true&theme=nord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
