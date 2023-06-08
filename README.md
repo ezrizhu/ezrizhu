@@ -4,7 +4,7 @@
 - 🌐 I run [AS206628](https://as206628.net), a not-for-profit IT and Networking project that provides free hosting and BGP upstream to students and open-source projects.
 - 💻 Currently Developing [eve](https://github.com/BasedDevelopment/eve) and [auto](https://github.com/BasedDevelopment/auto) to replace proxmox on my network!
 - 🌈 Looking for internships, shoot me an email!
-- 📫 eric@ericz.me If you prefer, finnekit#0001 on discord, and finnekit on libera.chat.
+- 📫 eric@ericz.me If you prefer, finnekit on discord and libera.chat.
 
 Don't forget to take care of yourself! Recognize the early signs of burnout, take breaks, and stay hydrated. 
 
